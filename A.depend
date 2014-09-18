@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1411053817 source:e:\c++\workspace\temp\a\main.cpp
+	"vmachine.hpp"
+	<cstdlib>
+	<cstdio>
+
+1411053844 e:\c++\workspace\temp\a\vmachine.hpp
+	<cstddef>
+
+1411043585 source:e:\c++\workspace\temp\a\object_type.cpp
+	<stdlib.h>
+	<ostream>
+
+1411043585 e:\c++\workspace\temp\a\object_type.cpp
+	<stdlib.h>
+	<ostream>
+
+1411053695 source:e:\c++\workspace\temp\a\vmachine.cpp
+	"vmachine.hpp"
+	<cstdio>
+	<cassert>
+
